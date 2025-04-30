@@ -1,4 +1,4 @@
-# ============ IMPORTANT_NOTES ============ 
+============ IMPORTANT_NOTES ============ 
 # Enable Long Path Support in Windows
 # Use gradlew.bat in the zip file instead of the one in "client/android" if facing java compatibility issues
 # Install pillow library of python
