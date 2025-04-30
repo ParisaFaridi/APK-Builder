@@ -1,4 +1,4 @@
-Enable Long Path Support in Windows
+Enable Long Path Support in Windows__
 Use gradlew.bat in the zip file instead of the one in "client/android" if facing java compatibility issues
 Install pillow library of python
 Add signConfigs to build.gradle
